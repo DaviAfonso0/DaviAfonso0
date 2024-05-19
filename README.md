@@ -15,4 +15,3 @@
 </div> <br/>
 
 Sou iniciante na programação,ainda estou estudando para aprender mais e conforme for aprendendo irei atualizando meu perfil do GitHub.
-![coding](https://github.com/DaviAfonso0/DaviAfonso0/assets/73261045/ea117f4f-ba94-4af5-b84d-dc42ea6d4b89)
