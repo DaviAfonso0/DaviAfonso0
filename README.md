@@ -1,7 +1,14 @@
 ### Olá,eu sou o Davi Afonso 👋🏻!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stories/ztdavi/)
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviAfonso0&theme=dark&show_icons=dracula)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-afonso-137b961b8/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](afonsodavi183@gmail.com)
+
+
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviAfonso0&theme=midnight-purple&show_icons=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAfonso0&hide_progress=true)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"> <br/>
