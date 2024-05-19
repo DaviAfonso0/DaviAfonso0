@@ -1,6 +1,4 @@
-![preview_45642_1501755208_38b9f66b4825147ac7bfe81fb9f7accc](https://github.com/DaviAfonso0/DaviAfonso0/assets/73261045/374ec842-8aaf-4bb8-81c3-72c89bcb7f4d)
 ### Olá,eu sou o Davi Afonso 👋🏻!
-
 
 <a href="https://www.instagram.com/ztdavi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo instagram"></a>
 <a href="https://www.linkedin.com/in/davi-afonso-137b961b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedin"></a>
@@ -17,3 +15,5 @@
 </div> <br/>
 
 Sou iniciante na programação,ainda estou estudando para aprender mais e conforme for aprendendo irei atualizando meu perfil do GitHub.
+
+![coding](https://github.com/DaviAfonso0/DaviAfonso0/assets/73261045/7b14f2a5-476f-4932-a193-2567435dea3a)
