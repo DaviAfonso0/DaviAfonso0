@@ -16,4 +16,5 @@
 
 Sou iniciante na programação,ainda estou estudando para aprender mais e conforme for aprendendo irei atualizando meu perfil do GitHub.
 
-![coding](https://github.com/DaviAfonso0/DaviAfonso0/assets/73261045/7b14f2a5-476f-4932-a193-2567435dea3a)
+
+![bsod](https://github.com/DaviAfonso0/DaviAfonso0/assets/73261045/310f1ee3-f174-4460-a3aa-0a3828c08cfd)
