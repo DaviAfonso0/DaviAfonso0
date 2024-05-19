@@ -1,6 +1,6 @@
 ### Olá,eu sou o Davi Afonso 👋🏻!
 
-<a href="https://www.instagram.com/ztdavi/" target="__blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo instagram"></a>
+<a href="https://www.instagram.com/ztdavi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="logo instagram"></a>
 <a href="https://www.linkedin.com/in/davi-afonso-137b961b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedin"></a>
 <a href="mailto:afonsodavi183@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo gmail"></a>
 
