@@ -1,3 +1,4 @@
+![preview_45642_1501755208_38b9f66b4825147ac7bfe81fb9f7accc](https://github.com/DaviAfonso0/DaviAfonso0/assets/73261045/374ec842-8aaf-4bb8-81c3-72c89bcb7f4d)
 ### Olá,eu sou o Davi Afonso 👋🏻!
 
 
@@ -7,8 +8,7 @@
 
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviAfonso0&theme=midnight-purple&show_icons=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAfonso0&hide_progress=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviAfonso0&&theme=midnight-purple&show_layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"> <br/>
