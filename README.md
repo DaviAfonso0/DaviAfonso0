@@ -6,12 +6,8 @@
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/davi-afonso-137b961b8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo linkedin"></a>
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ztdaviafonso@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="logo gmail"></a>
-    <img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+ <a href="https://www.linkedin.com/in/davi-afonso-137b961b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ztdaviafonso@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
