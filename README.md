@@ -6,15 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://instagram.com/ztdavi">
-    <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/davi-afonso-137b961b8/">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:ztdaviafonso@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/>
-  </a>
+  <a href="https://instagram.com/ztdavi"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram"/></a>
+  <a href="https://www.linkedin.com/in/davi-afonso-137b961b8/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:ztdaviafonso@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
