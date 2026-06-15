@@ -47,14 +47,13 @@
 </p>
 
 ---
-<!--
+
 ## 🔥 Sequência de commits
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DaviAFonso0&theme=tokyonight&hide_border=true"/>
 </p>
 ---
--->
 
 ## 🧠 Sobre mim
 
