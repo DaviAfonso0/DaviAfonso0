@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/davi-afonso-137b961b8/">
-    <img src="www.linkedin.com/in/davi-afonso-7ab173417"/>
+    <img src="https://www.linkedin.com/in/davi-afonso-7ab173417/"/>
   </a>
 
   <a href="mailto:ztdaviafonso@gmail.com">
